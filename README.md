@@ -18,7 +18,7 @@ The JDK was installed in:
 
 C:\Program Files\Java\jdk-25
 
-⚙️ Step 2: Set Environment Variables
+ Step 2: Set Environment Variables
 
 Created a new system variable:
 
@@ -29,7 +29,7 @@ Added this to the Path variable:
 
 %JAVA_HOME%\bin
 
-🔍 Step 3: Verify Installation
+ Step 3: Verify Installation
 
 In Command Prompt, I ran:
 
